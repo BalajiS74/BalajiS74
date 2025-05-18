@@ -62,8 +62,8 @@ Here are some small projects I’ve worked on while learning:
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BalajiS74&show_icons=true&theme=react" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiS74&layout=compact&theme=react" height="180"/>
 </p>
 
 ---
