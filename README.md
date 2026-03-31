@@ -14,7 +14,7 @@
 - 🤖 I also explore **Python**, **Java**, and core programming concepts like **Data Structures & Algorithms**.
 - 🛠️ I enjoy building simple projects to apply what I learn.
 - 📫 You can reach me at **[balaji.sornavel7418@gmail.com]**
-- 🌐 Portfolio (in progress): [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio :(https://balajis74.github.io/react-my-portfolio/)
 
 ---
 
