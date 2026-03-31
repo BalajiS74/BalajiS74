@@ -1,74 +1,100 @@
-<h1 align="center">Hi 👋, I'm [Balaji]</h1>
-<h3 align="center">💻 Learning Full-Stack Web Development | 💡 Passionate About Building and Exploring</h3>
+<h1 align="center">Hi 👋, I'm Balaji</h1>
+<h3 align="center">🚀 Full-Stack Developer in Progress | Building Impactful Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;Currently+Learning+React,+Node.js;Exploring+Web+Technologies+and+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+Arangam+Map;Passionate+About+Tech+and+Innovation" />
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## 🧑‍💻 About Me
 
-- 🎓 I’m a student and self-taught developer currently learning full-stack development.
-- 🌱 I’m focusing on **JavaScript**, **React**, **Node.js**, and backend technologies.
-- 🤖 I also explore **Python**, **Java**, and core programming concepts like **Data Structures & Algorithms**.
-- 🛠️ I enjoy building simple projects to apply what I learn.
-- 📫 You can reach me at **[balaji.sornavel7418@gmail.com]**
-- 🌐 Portfolio :(https://balajis74.github.io/react-my-portfolio/)
-
----
-
-## 📚 What I’m Learning
-
-- 🔹 HTML, CSS, Bootstrap
-- 🔹 JavaScript (ES6+), DOM, Fetch API
-- 🔹 React.js Basics
-- 🔹 Node.js (Express, fs module)
-- 🔹 Python for scripting and automation
-- 🔹 Java and C for understanding fundamentals
+- 🎓 Diploma Computer Engineering Student  
+- 💡 Self-taught developer focused on real-world applications  
+- 🚀 Creator of **Arangam Map** (College Event Platform)  
+- 🌱 Learning **MERN Stack + React Native**  
+- 🧠 Exploring **DSA & Problem Solving**  
+- ⚡ Goal: Become a top full-stack developer  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔥 Featured Project
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+### 🚀 Arangam Map  
+> A platform for discovering college events, hackathons & symposiums  
+
+✨ Features:
+- 📌 Event discovery across colleges  
+- 🎯 Easy participation system  
+- 📊 Upcoming: AI-based recommendations  
+
+🔗 *(Add your repo link here)*  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,java,c,git,github,vscode" />
 </p>
 
 ---
 
-## 🌱 Beginner Projects
+## 📊 GitHub Analytics
 
-Here are some small projects I’ve worked on while learning:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BalajiS74&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=BalajiS74&theme=tokyonight&border_radius=10" height="170"/>
+</p>
 
-### ✅ [Project 1: Portfolio Website]
-> A simple responsive portfolio built with HTML, CSS, and Bootstrap  
-🔗 [Live Demo](#) | 🧾 [Code](https://github.com/your-username/portfolio)
-
-### ✅ [Project 2: To-Do App]
-> JavaScript-based to-do list with local storage  
-🔗 [Live Demo](#) | 🧾 [Code](https://github.com/your-username/todo-app)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BalajiS74&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiS74&layout=compact&theme=react" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiS74&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🏆 Achievements & Badges
 
-<p>
-  <a href="mailto:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BalajiS74&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalajiS74&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Portfolio & Contact
+
+<p align="center">
+  <a href="https://balajis74.github.io/react-my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="mailto:balaji.sornavel7418@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/BalajiS74">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I believe **building projects > just watching tutorials**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BalajiS74&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+⭐ *"Code. Build. Learn. Repeat."*
