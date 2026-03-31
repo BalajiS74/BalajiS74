@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">🚀 Full-Stack Developer in Progress | Building Impactful Projects</h3>
+![KermitMapGIF](https://github.com/user-attachments/assets/3cc1abbe-9797-48e2-8e77-f0f22d858c7a)<h1 align="center">Hi 👋, I'm Balaji</h1>
+<h3 align="center">🚀 Jr.Software Developer  | Iwave </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+JavaScript;Building+Arangam+Map;Passionate+About+Tech+and+Innovation" />
@@ -10,8 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Diploma Computer Engineering Student  
-- 💡 Self-taught developer focused on real-world applications  
-- 🚀 Creator of **Arangam Map** (College Event Platform)  
+- 💡 Self-taught developer focused on real-world applications    
 - 🌱 Learning **MERN Stack + React Native**  
 - 🧠 Exploring **DSA & Problem Solving**  
 - ⚡ Goal: Become a top full-stack developer  
@@ -28,14 +27,36 @@
 - 🎯 Easy participation system  
 - 📊 Upcoming: AI-based recommendations  
 
-🔗 *(Add your repo link here)*  
+🔗 *(Add your repo link here)* 
+
+### 🚀 SCAD bus  
+> A platform for tracking college and school bus in real-time
+
+✨ Features:
+- 📌 Track college buses   
+- 🎯 Announcements ex. today bus is not running
+- 🗺️ Timeline based route map
+- 📊 Upcoming: AI-based route optimaization
+
+- ### 🚀 Exam app   
+> A platform for online exam management
+
+✨ Features:
+- 📌 Easy question creating 
+- 🎯 Strong security 
+- 📝 auto generated report
+- 📊 Upcoming: Agent monitering system
+  
+
+
+🔗 *(Add your repo link here)*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,java,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,python,c,c++,expo,git,github,vscode,postman,vercel,vite,linux" />
 </p>
 
 ---
